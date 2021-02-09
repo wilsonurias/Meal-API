@@ -30,10 +30,12 @@ body{
 
 h1{
   font-size: 75px;
+  color: black;
 }
 
 h2{
   font-size: 50px;
+  color: black;
 }
 h3{
   font-size: 60px;
@@ -44,6 +46,6 @@ h4{
 }
 
 section{
-  background: black;
-  color: white;
+  background: white;
+  color: black;
 }
