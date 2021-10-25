@@ -1,4 +1,4 @@
-//Example fetch using NASA API
+// Example fetch using NASA API
 document.querySelector('button').addEventListener('click', getFetch)
 
 function getFetch(){
@@ -14,4 +14,9 @@ function getFetch(){
       .catch(err => {
           console.log(`error ${err}`)
       });
+}
+
+
+function rentalCarCost(d) {
+  // Your solution here
 }
